@@ -1,6 +1,7 @@
 <h1>Oi! Bem-vindo(a) ao meu perfil!✌</h1>
 👩‍💻 Estudante, cursando Desenvolvimento de Sistemas (3/3)
-
+<p>
+🍀  Accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference.
 
 <div align="center">
   <a href="https://github.com/NickGregorato">
